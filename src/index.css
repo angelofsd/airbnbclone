@@ -2,6 +2,14 @@
   box-sizing: border-box;
 }
 
+#root {
+  margin: 50px;
+  max-width: 769px;
+  border: 2px solid rgb(164, 160, 160);
+  box-shadow: 4px 4px 4px black;
+  border-radius: 8px;
+}
+
 body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
